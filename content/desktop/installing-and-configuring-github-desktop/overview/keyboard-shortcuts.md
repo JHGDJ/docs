@@ -1,4 +1,5 @@
----
+-huyhihi204@gmail.com
+--theit1310
 title: Keyboard shortcuts
 intro: 'You can use keyboard shortcuts in {% data variables.product.prodname_desktop %}.'
 redirect_from:
@@ -11,7 +12,7 @@ versions:
 {% mac %}
 
 GitHub Desktop keyboard shortcuts on macOS
-
+kvkjjsd
 ## Site wide shortcuts
 
 | Keyboard shortcut | Description
@@ -117,4 +118,4 @@ GitHub Desktop keyboard shortcuts on Windows
 |<kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>C</kbd> | Compare branches on {% data variables.product.prodname_dotcom %}
 |<kbd>Ctrl</kbd><kbd>R</kbd> | Show the current pull request on {% data variables.product.prodname_dotcom %}
 
-{% endwindows %}
+
